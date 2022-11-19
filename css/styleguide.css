@@ -1,0 +1,84 @@
+:root { 
+  --abbey: #4f4f4f;
+  --abbey-2: #4d5156de;
+  --black: #000000;
+  --blue: #1158d6;
+  --bon-jour: #e0e0e0;
+  --google-grey: #4d5156;
+  --gray: #828282;
+  --mine-shaft: #333333;
+  --mist-gray: #c4c4c4;
+  --shady-lady: #a9a9a933;
+  --sonic-silver: #70757a;
+  --white: #ffffff;
+ 
+  --font-size-l: 16px;
+  --font-size-m: 14px;
+  --font-size-s: 12px;
+  --font-size-xl: 18px;
+  --font-size-xxl: 20px;
+ 
+  --font-family-roboto: "Roboto", Helvetica;
+}
+.serp-link {
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.serp-body-text {
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.serp-url {
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.serp-source-name {
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -0.41px;
+}
+
+.arial16pxregular {
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.roboto-normal-white-12px {
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-bold-abbey-14px {
+  color: var(--abbey-2);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-bold-denim-14px {
+  color: var(--blue);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
